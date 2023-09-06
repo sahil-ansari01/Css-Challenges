@@ -1,0 +1,80 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+    font-size: 21px;
+    font-weight: 300;
+}
+
+.container {
+    width: 570px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+h1,
+h2 {
+    font-weight: 300;
+}
+h1 {
+    font-size: 60px;
+}
+
+h2 {
+    font-size: 42px;
+}
+
+h3 {
+    font-size: 36px;
+    font-weight: 900;
+}
+
+.small-text p {
+    font-size: 16px;
+}
+
+
+span {
+    display: block;
+}
+
+.h1 {
+    font-size: 80px;
+    font-weight: 900;
+}
+
+.h2 {
+    font-size: 60px;
+    font-weight: 900;
+}
+
+a {
+    color: #99D930;
+}
+
+a:hover, :focus {
+    color: #131313
+}
+
+.name {
+    padding-top: 100px;
+    
+}
+
+header,
+section {
+    padding: 100px 0;
+}
+
+header {
+    background-color: #d7d7d7;
+}
+
+.about-me {
+    background-color: #ffeaea;
+}
+
+.article {
+    background-color: #eaf9ff;
+}
